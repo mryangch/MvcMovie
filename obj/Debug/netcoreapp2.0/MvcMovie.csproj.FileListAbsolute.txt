@@ -1,0 +1,10 @@
+E:\VsCode\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+E:\VsCode\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+E:\VsCode\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+E:\VsCode\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+E:\VsCode\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+E:\VsCode\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+E:\VsCode\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+E:\VsCode\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+E:\VsCode\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+E:\VsCode\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
